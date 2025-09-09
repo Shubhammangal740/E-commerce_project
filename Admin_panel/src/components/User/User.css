@@ -1,0 +1,15 @@
+h1{
+    margin-right: 350px;
+}
+.list1{
+    gap: 200px;
+    grid-template-columns: 2fr 3fr 3fr 1fr ;
+}
+
+.actual-list{
+    gap: 200px;
+    grid-template-columns: 2fr 3fr 3fr 1fr ;
+}
+.user-delete{
+    cursor: pointer;
+}

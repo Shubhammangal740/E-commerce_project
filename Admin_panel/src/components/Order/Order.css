@@ -1,0 +1,13 @@
+.list{
+    gap: 200px;
+    grid-template-columns: 3fr 3fr 1fr  ;
+}
+
+.list3{
+    gap: 370px;
+    grid-template-columns: 3fr 3fr 1fr  ;
+}
+
+.list3 .para {
+    margin-right: 50px;
+}
